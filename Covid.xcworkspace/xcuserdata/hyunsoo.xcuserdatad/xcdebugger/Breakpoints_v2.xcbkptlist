@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FC711AA-C03D-4061-8577-64B12F209B19"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8B2B380-B737-4255-B775-F57202B9699E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Covid/Model/CovidManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "stateArray"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F8B2B380-B737-4255-B775-F57202B9699E - 8b49ba511b09ed32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid.CovidManager.init(delegate: Swift.Optional&lt;Covid.CovidManagerDelegate&gt;) -&gt; Covid.CovidManager"
+                  moduleName = "Covid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunsoo/Desktop/Development/Covid/Covid/Model/CovidManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "F8B2B380-B737-4255-B775-F57202B9699E - 58d961578a2ad275"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid.CovidManager.init() -&gt; Covid.CovidManager"
+                  moduleName = "Covid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunsoo/Desktop/Development/Covid/Covid/Model/CovidManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
